@@ -816,7 +816,7 @@ if [ -z "$SKIP_IPERF" ]; then
 		"speedtest.novoserve.com" "5201-5206" "NovoServe" "North Holland, NL (40G)" "IPv4|IPv6" \
 		"speedtest.uztelecom.uz" "5200-5207" "Uztelecom" "Tashkent, UZ (10G)" "IPv4|IPv6" \
 		"nyc.speedtest.clouvider.net" "5200-5209" "Clouvider" "NYC, NY, US (10G)" "IPv4|IPv6" \
-		"dal.speedtest.clouvider.net" "5200-5209" "Clouvider" "Dallas, TX, US (10G)" "IPv4|IPv6" \
+		"fra.speedtest.clouvider.net" "5200-5209" "Clouvider" "Frankfurt, HE, DE (10G)" "IPv4|IPv6" \
 		"la.speedtest.clouvider.net" "5200-5209" "Clouvider" "Los Angeles, CA, US (10G)" "IPv4|IPv6" \
 	)
 
